@@ -44,8 +44,8 @@ from statsmodels.formula.api import MNLogit
 
 outcome = hie.pH_6h
 outcome1 = hie.outcome
-predictor = hie.copeptine_6h_pmol_l
-predictor1 = hie.geneder_1_male
+predictor = hie.copeptin_6h_pmol_l
+predictor1 = hie.gender_1_male
 
 
 
